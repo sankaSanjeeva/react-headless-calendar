@@ -1,0 +1,27 @@
+{
+  "name": "react-headless-calendar",
+  "version": "0.0.1",
+  "description": "A powerful, flexible, and headless calendar hook for React",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup",
+    "lint": "tsc"
+  },
+  "keywords": [
+    "react",
+    "date-picker",
+    "calendar"
+  ],
+  "author": "Sanka",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=17"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.29.8",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3"
+  }
+}
