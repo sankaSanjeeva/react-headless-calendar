@@ -7,7 +7,10 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsup",
-    "lint": "tsc",
+    "lint": "eslint",
+    "type:check": "tsc --noEmit",
+    "format": "prettier . --write",
+    "format:check": "prettier . --check",
     "prepare": "husky"
   },
   "keywords": [
