@@ -1,4 +1,0 @@
-{
-  "*.ts": ["tsc --noEmit --skipLibCheck", "eslint"],
-  "*.{json,md}": ["prettier . --check"]
-}
