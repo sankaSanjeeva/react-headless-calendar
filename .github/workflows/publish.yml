@@ -39,7 +39,7 @@ jobs:
         id: changesets
         uses: changesets/action@v1
         with:
-          publish: pnpm run publish
+          publish: pnpm run release
           title: '🎉 Version packages'
           commit: '🎉 Version packages'
         env:
