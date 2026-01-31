@@ -1,0 +1,15 @@
+src
+node_modules
+
+.github
+.changeset
+.husky
+
+.gitignore
+.prettierignore
+.prettierrc
+eslint.config.mts
+lint-staged.config.js
+pnpm-lock.yaml
+tsconfig.json
+tsup.config.ts

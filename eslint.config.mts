@@ -35,4 +35,8 @@ export default defineConfig([
   },
   eslintConfigPrettier,
   eslintPluginPrettierRecommended,
+  {
+    files: ['**/*.md'],
+    rules: { 'prettier/prettier': 'off' },
+  },
 ]);
