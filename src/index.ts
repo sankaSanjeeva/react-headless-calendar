@@ -1,3 +1,6 @@
-export function add(a: number, b: number) {
-  return a + b;
-}
+export { useCalendar } from './hook';
+export type {
+  CalendarDate,
+  UseCalendarOptions,
+  UseCalendarReturn,
+} from './types';
