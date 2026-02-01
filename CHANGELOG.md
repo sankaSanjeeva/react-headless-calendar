@@ -1,4 +1,4 @@
-# @sanka/react-headless-calendar
+# @code-s/react-headless-calendar
 
 ## 0.1.0
 

@@ -15,21 +15,21 @@ A powerful, flexible, and headless calendar hook for React. Build beautiful date
 ## 📦 Installation
 
 ```bash
-npm install @sanka/react-headless-calendar
+npm install @code-s/react-headless-calendar
 ```
 
 ```bash
-yarn add @sanka/react-headless-calendar
+yarn add @code-s/react-headless-calendar
 ```
 
 ```bash
-pnpm add @sanka/react-headless-calendar
+pnpm add @code-s/react-headless-calendar
 ```
 
 ## 🚀 Quick Start
 
 ```tsx
-import { useCalendar } from '@sanka/react-headless-calendar';
+import { useCalendar } from '@code-s/react-headless-calendar';
 
 function Calendar() {
   const {

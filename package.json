@@ -1,5 +1,5 @@
 {
-  "name": "@sanka/react-headless-calendar",
+  "name": "@code-s/react-headless-calendar",
   "version": "0.1.0",
   "description": "A powerful, flexible, and headless calendar hook for React",
   "main": "dist/index.js",
