@@ -1,10 +1,17 @@
 {
-  "name": "react-headless-calendar",
+  "name": "@sanka/react-headless-calendar",
   "version": "0.0.1",
   "description": "A powerful, flexible, and headless calendar hook for React",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
+  "homepage": "https://github.com/sankaSanjeeva/react-headless-calendar",
+  "repository": {
+    "url": "git+https://github.com/sankaSanjeeva/react-headless-calendar.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "tsup",
     "lint": "eslint",
